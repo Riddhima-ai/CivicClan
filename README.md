@@ -1,17 +1,39 @@
-# civiclens
+# CivicPlan
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+CivicPlan is a citizen-centric platform that enables users to report, track, and discuss civic issues such as potholes, water leakages, road damage, and sanitation concerns.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* Real-time civic issue reporting
+* Interactive state-wise dashboard
+* Open and resolved issue tracking
+* State helpline directory
+* Community feedback with likes, dislikes, and comments
+* Transparent issue monitoring
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Firebase
+
+## Problem Statement
+
+Citizens often lack an efficient and transparent way to report civic infrastructure issues and monitor their resolution status.
+
+## Solution
+
+CivicPlan bridges the gap between citizens and authorities by providing a centralized platform for reporting issues, tracking progress, and encouraging community participation.
+
+## Impact
+
+The platform promotes civic engagement, transparency, and faster resolution of public infrastructure problems.
+
+## Demo Video
+
+Add your demo video link here.
+
+## Live Website
+
+Add your website link here.
